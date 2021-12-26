@@ -19,5 +19,5 @@ Skills: SQL, Data Analysis,  Visualization, Data science
 - DataCamp Data Analyst with Python
 - DataCamp Python 
 ### 🙌🏻 Link Up 
-- [LinkedIn](https://www.linkedin.com/feed/)
-- [Kaggle](https://twitter.com/home)
+- [LinkedIn](www.linkedin.com/in/fauzan-mohammed-903b13146)
+- [Twitter](https://twitter.com/home)
