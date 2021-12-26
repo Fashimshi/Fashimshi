@@ -13,7 +13,7 @@ Skills: SQL, Data Analysis,  Visualization, Data science
 - Tools: SQL, Python, R, Sheets and Excel     
  
 ### 📚 Projects & Guides
-- Click **[HERE](https://github.com/katiehuangx/Portfolio-Guide)** for my projects and guides.
+- Click **[HERE]()** for my projects and guides.
 ### 📝 Currently Learning
 - IBM Data Science on Cousera
 - DataCamp Data Analyst with Python
