@@ -13,7 +13,7 @@ Skills: SQL, Data Analysis,  Visualization, Data science
 - Tools: SQL, Python, R, Sheets and Excel     
  
 ### 📚 Projects & Guides
-- Click **[HERE]()** for my projects and guides.
+- Click **[HERE](https://sites.google.com/view/fauzanmohammed/about-me/projects)** for my projects and guides.
 ### 📝 Currently Learning
 - IBM Data Science on Cousera
 - DataCamp Data Analyst with Python
