@@ -14,7 +14,7 @@ Skills: SQL, Data Analysis,  Visualization, Data science
 - Tools: SQL, Python, R, Sheets and Excel     
  
 ### 📚 Projects & Guides
-- Click **[HERE](https://bit.ly/3ipE3Jc)** for my projects and guides.
+- Click **[HERE](https://fashimshi.github.io/FauzanMo/)** for my projects and guides.
 
 ### 🙌🏻 Link Up 
 - [LinkedIn](www.linkedin.com/in/fauzan-mohammed-903b13146)
