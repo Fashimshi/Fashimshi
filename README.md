@@ -10,7 +10,7 @@
 - ⚡ Fun fact: 2. Self taught python, SQL, R
 - 📚 Enjoys using excel for my daily movement
 # 💡 Core Competencies
-Skills: SQL, Data Analysis,  Visualization, Data science
+Skills: SQL, Data Analysis,  Visualization, Data science, Machine Learning, Deep Learning
 - Tools: SQL, Python, R, Sheets and Excel     
  
 ### 📚 Projects & Guides
