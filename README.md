@@ -11,7 +11,7 @@
 - 📚 Enjoys using excel for my daily movement
 # 💡 Core Competencies
 Skills: SQL, Data Analysis,  Visualization, Data science, Machine Learning, Deep Learning
-- Tools: SQL, Python, R, Sheets and Excel     
+- Tools: SQL, Python, R,Java, HTML, Sheets and Excel     
  
 ### 📚 Projects & Guides
 - Click **[HERE](https://fashimshi.github.io/FauzanMo/)** for my projects and guides.
