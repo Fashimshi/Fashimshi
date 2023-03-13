@@ -1,8 +1,9 @@
 
 
 
-Skills: SQL, Data Analysis,  Visualization, Data science, Machine Learning, Deep Learning
-- Tools: SQL, Python, R,Java, HTML, JavaScript     
+Skills: SQL, Data Analysis,  Visualization, Data science, Machine Learning, Deep Learning, OpenCV, Time Series Analysis, Big Data Analytics, Cloud Computing (GCP)
+Data Mining, Statistical Analysis, Predictive Modeling,TensorFlow, Scikit-learn
+Tools: SQL, Python, R,Java, HTML, JavaScript     
  
 ### 🙌🏻 Link Up 
 - [LinkedIn](www.linkedin.com/in/fauzan-mohammed-903b13146)
