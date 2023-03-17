@@ -9,6 +9,6 @@ Data Mining, Statistical Analysis, Predictive Modeling,TensorFlow, Scikit-learn.
 SQL, Python, R,Java, HTML, JavaScript     
  
 ### 🙌🏻 Link Up 
-- [LinkedIn](www.linkedin.com/in/fauzan-mohammed-903b13146)
+- [LinkedIn]([www.linkedin.com/in/fauzan-mohammed-903b13146](https://www.linkedin.com/in/fauzanmohammed/))
 - [Twitter](https://twitter.com/fa_shimshi)
 - [Kaggle](https://www.kaggle.com/fauzanmohammed)
